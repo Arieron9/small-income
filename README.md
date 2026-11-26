@@ -14,6 +14,7 @@
 | [03-dm-scripts.md](03-dm-scripts.md) | Instagram / WhatsApp DMs — English + Hebrew |
 | [04-sales-call.md](04-sales-call.md) | 15-minute call script + objection answers |
 | [05-onboarding.md](05-onboarding.md) | What to do the moment someone says yes |
+| [06-more-services.md](06-more-services.md) | 7 more services (Google profile, win-back campaigns, realtor reels, DM bots…) + pitches |
 | [leads.csv](leads.csv) | Lead tracker — import into Google Sheets |
 | [site/index.html](site/index.html) | One-page website (free hosting on GitHub Pages) |
 
