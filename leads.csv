@@ -1,2 +1,2 @@
-date_added,business,niche,city,google_rating,instagram,last_post,owner_name,email,phone,channel,sample_made,status,last_contact,next_step,next_date,notes
-2026-11-27,EXAMPLE Barbershop,barbershop,Miami,4.7,@example_barber,2026-09-10,Carlos,carlos@example.com,,email,yes,emailed,2026-11-27,follow-up 1,2026-11-30,great reviews; IG dead since Sept
+date_added,business,category,area,phone,instagram_or_facebook,google_rating,review_count,last_review_date,owner_replies,owner_name,website_status,review_phrases,score,preview_url,channel,status,last_contact,next_step,next_date,notes
+2026-11-27,EXAMPLE Pressure Washing,pressure washing,Doral,unknown,@example,4.9,47,2026-11-20,yes,Luis,none,"on time; driveway looks new",90,,call,new,,build preview,2026-11-28,owner answers reviews personally

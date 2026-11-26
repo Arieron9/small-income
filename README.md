@@ -15,6 +15,7 @@
 | [04-sales-call.md](04-sales-call.md) | 15-minute call script + objection answers |
 | [05-onboarding.md](05-onboarding.md) | What to do the moment someone says yes |
 | [06-more-services.md](06-more-services.md) | 7 more services (Google profile, win-back campaigns, realtor reels, DM bots…) + pitches |
+| [07-lead-finding.md](07-lead-finding.md) | Why cold email failed, lead scoring, best lead sources, call/DM scripts, research-agent prompt |
 | [leads.csv](leads.csv) | Lead tracker — import into Google Sheets |
 | [site/index.html](site/index.html) | One-page website (free hosting on GitHub Pages) |
 
