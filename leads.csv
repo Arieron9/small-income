@@ -1,2 +1,2 @@
-date_added,business,category,area,phone,instagram_or_facebook,google_rating,review_count,last_review_date,owner_replies,owner_name,website_status,review_phrases,score,preview_url,channel,status,last_contact,next_step,next_date,notes
-2026-11-27,EXAMPLE Pressure Washing,pressure washing,Doral,unknown,@example,4.9,47,2026-11-20,yes,Luis,none,"on time; driveway looks new",90,,call,new,,build preview,2026-11-28,owner answers reviews personally
+date_added,business,category,area,phone,instagram_or_facebook,email,email_source,google_rating,review_count,last_review_date,owner_replies,owner_name,website_status,review_phrases,score,preview_url,channel,status,last_contact,next_step,next_date,notes
+2026-11-27,EXAMPLE Pressure Washing,pressure washing,Doral,unknown,@example,unknown,unknown,4.9,47,2026-11-20,yes,Luis,none,"on time; driveway looks new",90,,call,new,,build preview,2026-11-28,owner answers reviews personally
